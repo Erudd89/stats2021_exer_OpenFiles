@@ -11,6 +11,9 @@ output:
 If you're reading this you have successfully installed R and RStudio. Good job!
 
 This assignment is written as an Rmarkdown file and can be used to generate formatted output. One of the advantages of this output is it includes the code with the output. If you ever need to recreate an analysis in the future, it's probably more important to have a record of the code used than the actual output. (Always save your code with your data file(s).)
+```{r}
+
+```
 
 There are several different output formats available.You can see a list at https://rmarkdown.rstudio.com/lesson-9.html
 
